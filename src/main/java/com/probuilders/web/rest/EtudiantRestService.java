@@ -44,4 +44,8 @@ public class EtudiantRestService {
 		return etudiantRepositorie.save(e);
 	}
 	
+	public void modif() {
+		
+	}
+	
 }
